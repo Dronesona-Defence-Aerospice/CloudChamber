@@ -7,5 +7,5 @@ Cloud chamber fungerer ved at en mettet damp av et kjølemiddel (for eksempel is
 - [CERN - How to make your own cloud chamber](https://home.cern/news/news/experiments/how-make-your-own-cloud-chamber)
 
 ## Vårt system
-Vår løsning vil benytte seg av peltier elementer, dette er elektrotermiske elementer som kan skape en høy temperaturforskjell. Topp og bunn blir svært varm hver for seg. På denne måten kan vi oppnå den lave temperaturen som bidrar til effekten hvor vi kan se ioniserende stråling. 
+Vår løsning vil benytte seg av peltier elementer, dette er elektrotermiske elementer som kan skape en høy temperaturforskjell. Topp og bunn blir svært varm og kald hver for seg. På denne måten kan vi oppnå den lave temperaturen som bidrar til effekten hvor vi kan se ioniserende stråling. 
 
