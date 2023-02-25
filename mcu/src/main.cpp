@@ -53,7 +53,7 @@ void loop()
         temperatureSensors.requestTemperatures();
         Serial << "Inside: " << temperatureSensors.getTempC(CloudChamber::chamber) << "°C\n";
         Serial << "Hotside: " << temperatureSensors.getTempC(CloudChamber::hotSide) << "°C\n";
-        Serial << "Ambient: " << temperatureSensors.getTempC(CloudChamber::ambient) << "°C\n";
+        Serial << "Water pump: " << temperatureSensors.getTempC(CloudChamber::ambient) << "°C\n";
         timestamp = {millis()};
     }
     

@@ -1,6 +1,6 @@
 [submodule "code/lib/Arduino-Temperature-Control-Library"]
-	path = code/lib/Arduino-Temperature-Control-Library
+	path = mcu/lib/Arduino-Temperature-Control-Library
 	url = git@github.com:milesburton/Arduino-Temperature-Control-Library.git
 [submodule "code/lib/FastLED"]
-	path = code/lib/FastLED
+	path = mcu/lib/FastLED
 	url = git@github.com:FastLED/FastLED.git
